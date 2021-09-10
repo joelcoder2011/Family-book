@@ -1,0 +1,18 @@
+  body {
+ text-align: center;
+ background-image: linear-gradient(lightgreen,blue,red)}
+
+ h1{
+  font-size: 40px;
+  color: turquoise;
+  text-decoration: underline;
+ }
+h3{
+  font-size: 30px;
+  color:chartreuse;
+   font-weight: bold;
+   text-decoration: underline;
+} 
+#Family_img{
+  width: 290px;
+}
